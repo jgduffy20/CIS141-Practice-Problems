@@ -6,6 +6,7 @@ This is where my practice problem assignments for the CIS141 class this quarter 
 - [X] Start working practice problems!
 - [x] Module 1 Skills Demo
 - [X] Module 1 Github Setup
-- [ ] Module 2
+- [X] Module 1 Problems Script
+- [ ] Module 2 Problems Script
 
 # *Markdown is fun*
