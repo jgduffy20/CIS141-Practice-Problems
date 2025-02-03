@@ -9,6 +9,7 @@ This is where my practice problem assignments for the CIS141 class this quarter 
 - [X] Module 1 Problems Script for Module 2
 - [x] Module 3 Problems Script for Module 3 *(Inquire about goofy numbering?)*
 - [x] Module 4 Problems Script
+- [X] Module 4 Skills Demo
 - [ ] Module 5 Problems Script
 - [ ] The Future..............
 
