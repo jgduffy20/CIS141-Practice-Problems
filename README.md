@@ -8,7 +8,8 @@ This is where my practice problem assignments for the CIS141 class this quarter 
 - [X] Module 1 Github Setup
 - [X] Module 1 Problems Script for Module 2
 - [x] Module 3 Problems Script for Module 3 *(Inquire about goofy numbering?)*
-- [ ] Module 4 Problems Script
+- [x] Module 4 Problems Script
+- [ ] Module 5 Problems Script
 - [ ] The Future..............
 
 # *Markdown is fun*
