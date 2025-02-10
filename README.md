@@ -10,7 +10,11 @@ This is where my practice problem assignments for the CIS141 class this quarter 
 - [x] Module 3 Problems Script for Module 3 *(Inquire about goofy numbering?)*
 - [x] Module 4 Problems Script
 - [X] Module 4 Skills Demo
-- [ ] Module 5 Problems Script
+- [x] Module 5 Problems Script
+- [x] Module 5 Skills Demo
+- [ ] Module 6 Problems
+- [ ] Module 6 Skills Demo
+- [ ] Module 7 things.
 - [ ] The Future..............
 
 # *Markdown is fun*
