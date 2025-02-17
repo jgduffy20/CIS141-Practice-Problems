@@ -12,8 +12,8 @@ This is where my practice problem assignments for the CIS141 class this quarter 
 - [X] Module 4 Skills Demo
 - [x] Module 5 Problems Script
 - [x] Module 5 Skills Demo
-- [ ] Module 6 Problems
-- [ ] Module 6 Skills Demo
+- [x] Module 6 Problems
+- [x] Module 6 Skills Demo
 - [ ] Module 7 things.
 - [ ] The Future..............
 
