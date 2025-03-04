@@ -16,6 +16,10 @@ This is where my practice problem assignments for the CIS141 class this quarter 
 - [x] Module 6 Skills Demo
 - [X] Module 7 Problems
 - [x] Module 7 Skills Demo
+- [x] Module 8 Problems
+- [x] Module 8 Skills Demo
+- [ ] Module 9 Problems
+- [ ] Module 9 Skills Demo
 - [ ] The Future..............
 
 # *Markdown is fun*
