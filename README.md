@@ -18,8 +18,7 @@ This is where my practice problem assignments for the CIS141 class this quarter 
 - [x] Module 7 Skills Demo
 - [x] Module 8 Problems
 - [x] Module 8 Skills Demo
-- [ ] Module 9 Problems
-- [ ] Module 9 Skills Demo
+- [X] Module 9 Skills Demo
 - [ ] The Future..............
 
 # *Markdown is fun*
